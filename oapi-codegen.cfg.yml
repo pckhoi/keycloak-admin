@@ -1,0 +1,5 @@
+package: keycloakadmin
+generate:
+  client: true
+  models: true
+output: client.gen.go
